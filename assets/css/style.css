@@ -1,98 +1,98 @@
-*{
-    font-family: 'Raleway', sans-serif;
+* {
+  font-family: "Raleway", sans-serif;
 }
 
-.bg-color{
-    background-color: #22223b;
+.bg-color {
+  background-color: #000000;
 }
 
-header{
-    margin: 0;
-    border: 0;
+header {
+  margin: 0;
+  border: 0;
 }
 
-#Hero-Section{
-    background-image: url(../img/ilustrador-creativo-que-trabaja-dispositivos.jpg);
-    background-size: cover;
-    color: #22223b;
-    margin: 0;
+#Hero-Section {
+  background-image: url(../img/ilustrador-creativo-que-trabaja-dispositivos.jpg);
+  background-size: cover;
+  color: #223b2a;
+  margin: 0;
 }
 
-.languagetitle{
-    text-align: center;
-    padding: 2rem;
+.languagetitle {
+  text-align: center;
+  padding: 2rem;
 }
-.skillstitle{
-    text-align: center;
-    padding: 2rem;
-}
-
-.skills{
-    background-color: #4a4e69;
-    color: #f2e9e4;
+.skillstitle {
+  text-align: center;
+  padding: 2rem;
 }
 
-.language{
-    background-color: #22223b;
-    color: #f2e9e4;
+.skills {
+  background-color: #4a4e69;
+  color: #f2e9e4;
 }
 
-.portafolio{
-    background-image:url(../img/dibujo-ilustrador-vista-superior-ipad.jpg);
-    background-size: cover;
-    text-align: center;
-    height: 200px;
-    padding: 2rem;
-    color: #f2e9e4;
+.language {
+  background-color: #22223b;
+  color: #f2e9e4;
 }
 
-.portafoliotitle{
-    padding: 1rem;
+.portafolio {
+  background-image: url(../img/dibujo-ilustrador-vista-superior-ipad.jpg);
+  background-size: cover;
+  text-align: center;
+  height: 200px;
+  padding: 2rem;
+  color: #f2e9e4;
 }
 
-.education{
-    background-color: #f2e9e4;
-    color: #22223b;
+.portafoliotitle {
+  padding: 1rem;
 }
 
-.educationtitle{
-    text-align: center;
-    padding: 2rem;
+.education {
+  background-color: #f2e9e4;
+  color: #22223b;
 }
 
-.containeredu{
-    display:flex;
-    flex-direction: row;
-    justify-content: space-around;
-    text-align: center;
-    padding: 2rem;
-    flex-wrap: wrap;
+.educationtitle {
+  text-align: center;
+  padding: 2rem;
 }
 
-.experience{
-    background-color: #9A8C98;
-    color: #f2e9e4;
+.containeredu {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  text-align: center;
+  padding: 2rem;
+  flex-wrap: wrap;
 }
 
-.row{
-    display: flex;
-    padding-left: 3rem;
-    justify-content: center;
-    padding-bottom: 3rem;
+.experience {
+  background-color: #3c0033;
+  color: #f2e9e4;
 }
 
-footer{
-    text-align: center;
-    background-color: #22223b;
-    color: #f2e9e4;
+.row {
+  display: flex;
+  padding-left: 3rem;
+  justify-content: center;
+  padding-bottom: 3rem;
 }
 
-.contactbox{
-    display: flex;
-    justify-content: space-around;
-    padding: 1.5rem;
+footer {
+  text-align: center;
+  background-color: #22223b;
+  color: #f2e9e4;
 }
 
-.contacttitle{
-    padding: 1rem;
+.contactbox {
+  display: flex;
+  justify-content: space-around;
+  padding: 1.5rem;
+}
+
+.contacttitle {
+  padding: 1rem;
 }
